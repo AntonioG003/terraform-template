@@ -1,4 +1,4 @@
-project_name   = ""
-project_number = 0
+project_name   = "tecweb003"
+project_number = 230844722151
 region         = ""
 
